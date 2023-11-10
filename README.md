@@ -40,7 +40,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- Your Name
+- Your Name:Ashish
 - GitHub: [Your GitHub Profile](https://github.com/isdevit)
 
 ## Acknowledgments
