@@ -1,13 +1,13 @@
 # Language Translater Web App
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
-![GitHub](https://img.shields.io/github/license/yourusername/your-repo-name)
+![GitHub last commit](https://img.shields.io/github/last-commit/isdevit/web-translator)
+![GitHub](https://img.shields.io/github/license/isdevit/web-translator)
 
 ## Overview
 
 The Language Translater Web App is a simple yet powerful tool that allows users to translate text from one language to another. It provides a user-friendly interface for selecting source and target languages, entering text, and viewing the translated results. This web application also offers additional features, including uploading documents for translation and text-to-speech functionality.
 
-![Application Screenshot](C:/Users/ashis/Pictures/Screenshots/img2.png)
+![Application Screenshot]()
 
 ## Features
 
@@ -28,7 +28,7 @@ The Language Translater Web App is a simple yet powerful tool that allows users 
 
 ## Installation
 
-No installation is required. You can access the web application by simply visiting the live website [here](https://your-website-link.com).
+No installation is required. You can access the web application by simply forking and running the html file with ant IDE.
 
 ## Contributions
 
@@ -41,7 +41,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 - Your Name
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- GitHub: [Your GitHub Profile](https://github.com/isdevit)
 
 ## Acknowledgments
 
@@ -49,7 +49,5 @@ This project is licensed under the [MIT License](LICENSE).
 - Translation API: [Google Translate](https://cloud.google.com/translate)
 
 ---
-
-**Note:** Customize this README with your project's specific details, such as screenshots, links, and author information. Make sure to update the badges with the correct repository information.
 
 Happy translating!
