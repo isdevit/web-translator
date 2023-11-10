@@ -7,7 +7,7 @@
 
 The Language Translater Web App is a simple yet powerful tool that allows users to translate text from one language to another. It provides a user-friendly interface for selecting source and target languages, entering text, and viewing the translated results. This web application also offers additional features, including uploading documents for translation and text-to-speech functionality.
 
-![Application Screenshot](images/ss/img1.png,images/ss/img2.png)
+![Application Screenshot](img1.png)
 
 ## Features
 
